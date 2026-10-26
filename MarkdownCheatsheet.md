@@ -1,3 +1,4 @@
+### Disclaimer: Gemaakt door gemini, 26 Okt 2026
 # 📝 GitHub Markdown Cheatsheet
 
 Een handig overzicht van alle veelgebruikte Markdown-syntax voor GitHub repositories, issues, pull requests en `README.md` bestanden.
@@ -199,5 +200,3 @@ Je kunt hier ook gewone **Markdown** in gebruiken!
 | **SHA Commit Link** | Volledige of korte hash | `a1b2c3d` |
 
 ---
-
-*Veel succes met het documenteren van je project!* 🚀
