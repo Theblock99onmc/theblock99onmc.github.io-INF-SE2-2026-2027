@@ -15,11 +15,11 @@ Algemeen:
 
 
 Rich preview:
-> [ogp.me}(https://ogp.me/)
+> [ogp.me](https://ogp.me/)
 
->   [OGP Generator](https://webcode.tools/open-graph-generator/website/)
+  > [OGP Generator](https://webcode.tools/open-graph-generator/website/)
 
->   [OGP Types](https://ogp.me/#types)
+  > [OGP Types](https://ogp.me/#types)
 
 > [google.com/test/rich-results](https://search.google.com/test/rich-results)
 
