@@ -1,1 +1,15 @@
+##> Robots.txt
+##> Added by: theblock99onmc, 26/10/2026
+
+##> Sources:
+##> https://stephcraft.net/docs/robots.txt
+##>https://www.sitemaps.org/protocol.html#submit_engine
+##> https://developers.google.com/crawling/docs/robots-txt/robots-txt-spec
+
+
+#Sitemap directory:
 Sitemap: http://www.example.com/sitemap.xml
+
+##Rules:
+User-agent: *
+Disallow: *
