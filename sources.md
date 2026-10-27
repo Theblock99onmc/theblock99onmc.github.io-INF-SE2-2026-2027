@@ -3,18 +3,17 @@
 
 ## Meta tags
 Algemeen⚙️❤️:
-```markdown
-> [stephcraft.net/docs/meta](https://stephcraft.net/docs/meta)
 
-> [developer.mozilla.org/docs/Web/HTML/Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/rel#author)
+> [stephcraft.net/docs/meta](https://stephcraft.net/docs/meta)<br>
 
-> [developers.google.com/search/docs/specialty/explicit/guidelines](https://developers.google.com/search/docs/specialty/explicit/guidelines)
+> [developer.mozilla.org/docs/Web/HTML/Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/rel#author)<br>
 
-> [developer.mozilla.org/docs/Web/HTML/Reference/Elements/meta/name/theme-color](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta/name/theme-color#using_a_media_query_with_theme-color)
+> [developers.google.com/search/docs/specialty/explicit/guidelines](https://developers.google.com/search/docs/specialty/explicit/guidelines)<br>
+
+> [developer.mozilla.org/docs/Web/HTML/Reference/Elements/meta/name/theme-color](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta/name/theme-color#using_a_media_query_with_theme-color)<br>
 
 > [developer.mozilla.org/docs/Glossary/BCP_47_language_tag](https://developer.mozilla.org/en-US/docs/Glossary/BCP_47_language_tag)
 
-```
 Rich preview💰🤑:
 ```markdown
 > [ogp.me](https://ogp.me/)
