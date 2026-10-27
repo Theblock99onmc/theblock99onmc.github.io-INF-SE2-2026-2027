@@ -3,6 +3,7 @@
 
 ## Meta tags
 Algemeen:
+```markdown
 > [stephcraft.net/docs/meta](https://stephcraft.net/docs/meta)
 
 > [developer.mozilla.org/docs/Web/HTML/Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/rel#author)
@@ -13,8 +14,9 @@ Algemeen:
 
 > [developer.mozilla.org/docs/Glossary/BCP_47_language_tag](https://developer.mozilla.org/en-US/docs/Glossary/BCP_47_language_tag)
 
-
+```
 Rich preview:
+```markdown
 > [ogp.me](https://ogp.me/)
 
   > [OGP Generator](https://webcode.tools/open-graph-generator/website/)
@@ -22,16 +24,17 @@ Rich preview:
   > [OGP Types](https://ogp.me/#types)
 
 > [google.com/test/rich-results](https://search.google.com/test/rich-results)
-
+```
 
 ## Crawlers
 Algemeen: 
+```markdown
 > [stephcraft.net/docs/robots.txt](https://stephcraft.net/docs/robots.txt)
 
 > [www.sitemaps.org](https://www.sitemaps.org/protocol.html)
 
 > [developers.google.com/search/docs/crawling-indexing](https://developers.google.com/search/docs/crawling-indexing/special-tags#unsupported)
-
+```
 
 ## HTML
 Algemeen:
