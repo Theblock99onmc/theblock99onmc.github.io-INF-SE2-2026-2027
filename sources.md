@@ -16,13 +16,13 @@ Algemeen⚙️❤️:
 
 Rich preview💰🤑:
 ```markdown
-> [ogp.me](https://ogp.me/)
-
-  > [OGP Generator](https://webcode.tools/open-graph-generator/website/)
-
-  > [OGP Types](https://ogp.me/#types)
-
-> [google.com/test/rich-results](https://search.google.com/test/rich-results)
+> [ogp.me](<https://ogp.me/>)
+>
+  > [OGP Generator](<https://webcode.tools/open-graph-generator/website/>)
+>
+  > [OGP Types](<https://ogp.me/#types>)
+>
+> [google.com/test/rich-results](<https://search.google.com/test/rich-results>)
 ```
 
 ## Crawlers🤖🕷️
