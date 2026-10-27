@@ -12,7 +12,9 @@ Algemeen⚙️❤️:
 
 > [developer.mozilla.org/docs/Web/HTML/Reference/Elements/meta/name/theme-color](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta/name/theme-color#using_a_media_query_with_theme-color)<br>
 
-> [developer.mozilla.org/docs/Glossary/BCP_47_language_tag](https://developer.mozilla.org/en-US/docs/Glossary/BCP_47_language_tag)
+> [developer.mozilla.org/docs/Glossary/BCP_47_language_tag](https://developer.mozilla.org/en-US/docs/Glossary/BCP_47_language_tag)<br>
+
+> [stephcraft.net/docs/responsive](https://stephcraft.net/docs/responsive)
 
 Rich preview💰🤑:
 ```markdown
