@@ -2,7 +2,7 @@
 ### Dit document bevat links naar gebruikte bronnen, zoals documentatie.
 
 ## Meta tags
-Algemeen:
+Algemeen⚙️❤️:
 ```markdown
 > [stephcraft.net/docs/meta](https://stephcraft.net/docs/meta)
 
@@ -15,7 +15,7 @@ Algemeen:
 > [developer.mozilla.org/docs/Glossary/BCP_47_language_tag](https://developer.mozilla.org/en-US/docs/Glossary/BCP_47_language_tag)
 
 ```
-Rich preview:
+Rich preview💰🤑:
 ```markdown
 > [ogp.me](https://ogp.me/)
 
@@ -26,7 +26,7 @@ Rich preview:
 > [google.com/test/rich-results](https://search.google.com/test/rich-results)
 ```
 
-## Crawlers
+## Crawlers🤖🕷️
 Algemeen: 
 ```markdown
 > [stephcraft.net/docs/robots.txt](https://stephcraft.net/docs/robots.txt)
@@ -36,6 +36,6 @@ Algemeen:
 > [developers.google.com/search/docs/crawling-indexing](https://developers.google.com/search/docs/crawling-indexing/special-tags#unsupported)
 ```
 
-## HTML
+## HTML〰️📶
 Algemeen:
 > [stephcraft.net/docs/html](https://stephcraft.net/docs/html)
