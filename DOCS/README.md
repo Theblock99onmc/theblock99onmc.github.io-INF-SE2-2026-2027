@@ -16,6 +16,12 @@ In dit project gaan wij een site verbeteren zodat bedrijfseigenaren een betere i
 wanneer consumenten hun site bezoeken. Aan ons is een site toegewezen door de eigenaar/medewerker van BouwBedrijfBollenstreek 
 om te verbeteren.
 
+## Taken en rollen
+
+Nicer-the-great: Issue fixer. Fixt issues.
+Theblock99: Issue-finder. Vindt issues and fixt issues.
+informaticadocent: Aanschouwt en beschouwwt de duo op hun best.
+
 ## documenten:
 > [Bronnen](sources.md)
 
