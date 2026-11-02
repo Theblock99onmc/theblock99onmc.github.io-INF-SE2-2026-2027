@@ -26,3 +26,7 @@ informaticadocent: Aanschouwt en beschouwwt de duo op hun best.
 > [Bronnen](sources.md)
 
 > [Markdown uitleg](MarkdownCheatsheet.md)
+
+## Licenties:
+
+> [apache_licentie](Theblock99onmc/theblock99onmc.github.io-INF-SE2-2026-2027/LICENSE)
