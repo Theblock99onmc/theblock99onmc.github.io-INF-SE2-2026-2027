@@ -2,7 +2,7 @@
 ### Dit document bevat links naar gebruikte bronnen, zoals documentatie.
 
 ## Meta tags
-Algemeen⚙️❤️:
+#### Algemeen:
 
 > [stephcraft.net/docs/meta](https://stephcraft.net/docs/meta)
 > [developer.mozilla.org/docs/Web/HTML/Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/rel#author)<br>
@@ -11,21 +11,21 @@ Algemeen⚙️❤️:
 > [developer.mozilla.org/docs/Glossary/BCP_47_language_tag](https://developer.mozilla.org/en-US/docs/Glossary/BCP_47_language_tag)<br>
 > [stephcraft.net/docs/responsive](https://stephcraft.net/docs/responsive)<br>
 
-Rich preview💰🤑:
+#### Rich preview:
 > [ogp.me](<https://ogp.me/>)
 > [OGP Generator](<https://webcode.tools/open-graph-generator/website/>)
 > [OGP Types](<https://ogp.me/#types>) <br>
 > [google.com/test/rich-results](<https://search.google.com/test/rich-results>)
 
-## Crawlers🤖🕷️
-Algemeen: 
+## Crawlers
+#### Algemeen: 
 
 > [stephcraft.net/docs/robots.txt](https://stephcraft.net/docs/robots.txt) <br>
 > [www.sitemaps.org](https://www.sitemaps.org/protocol.html) <br>
 > [developers.google.com/search/docs/crawling-indexing](https://developers.google.com/search/docs/crawling-indexing/special-tags#unsupported) <br>
 
-## HTML〰️📶
-Algemeen:
+## HTML
+#### Algemeen:
 > [stephcraft.net/docs/html](https://stephcraft.net/docs/html) <br>
 > [stackoverflow.com/questions/link-to-a-section-of-a-webpage](https://stackoverflow.com/questions/8424785/link-to-a-section-of-a-webpage) <br>
 
