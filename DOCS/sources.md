@@ -28,3 +28,7 @@ Algemeen:
 Algemeen:
 > [stephcraft.net/docs/html](https://stephcraft.net/docs/html) <br>
 > [stackoverflow.com/questions/link-to-a-section-of-a-webpage](https://stackoverflow.com/questions/8424785/link-to-a-section-of-a-webpage) <br>
+
+## Markdown
+> [docs.github.com/writing-on-github/working-with-advanced-formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+> [docs.github.com/writing-on-github/getting-started](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)
