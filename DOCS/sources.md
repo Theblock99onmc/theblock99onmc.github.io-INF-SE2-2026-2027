@@ -39,5 +39,5 @@ Algemeen:
 
 ## HTML〰️📶
 Algemeen:
-> [stephcraft.net/docs/html](https://stephcraft.net/docs/html)
-> [stackoverflow.com/questions/link-to-a-section-of-a-webpage]()https://stackoverflow.com/questions/8424785/link-to-a-section-of-a-webpage)
+> [stephcraft.net/docs/html](https://stephcraft.net/docs/html) <br>
+> [stackoverflow.com/questions/link-to-a-section-of-a-webpage](https://stackoverflow.com/questions/8424785/link-to-a-section-of-a-webpage) <br>
