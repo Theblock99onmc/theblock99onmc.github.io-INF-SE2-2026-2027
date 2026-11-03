@@ -38,7 +38,22 @@
     </div>
 
     <div class="ContentContainer" id="ContentContainer_1"><!-- container for the main page content, contains all the main content for the page. --> 
-      
+      <div id="content"></div>
+      <script>
+          fetch('.artikel_01ab.md')
+              .then(response => {
+                  if (!response.ok) throw new Error('Document niet gevonden');
+                  return response.text();
+              })
+              .then(markdown => {
+                  document.getElementById('content').innerHTML = marked.parse(markdown);
+              })
+              .catch(error => {
+                  console.error('Fout bij laden:', error);
+                  document.getElementById('content').innerHTML = '<p>Kan het document niet laden.</p>';
+              });
+      </script>
+
     </div>
     
     <div class="Footer">
