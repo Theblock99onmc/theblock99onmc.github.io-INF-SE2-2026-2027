@@ -1,1 +1,15 @@
 /*stylesheet voor /BouwBedrijfBollenstreek/index.html */
+.MainHeader {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+.MainContent {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+.MainFooter {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+}
