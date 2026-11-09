@@ -1,4 +1,4 @@
->dit is een hyperlink anar chatgpt.com
+>dit is een hyperlink naar chatgpt.com
 >
 >
 '''markdown
