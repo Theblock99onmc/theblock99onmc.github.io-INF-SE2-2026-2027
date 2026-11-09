@@ -33,12 +33,12 @@
 
   <body>
     <header class="MainHeader" id="Header">
-      <h1 class="MainHeader_Title"><a href="#header">Bouwbedrijf - Bollenstreek</a></h1>
-      <nav class="MainHeader_Nav"><!--navbar met section links i.p.v. file links -->
-        <ul class="MainHeader_NavList">
-          <li class="MainHeader_NavItem"><a href="#Introductie" class="MainHeader__NavLink">Introductie</a></li>
-          <li class="MainHeader_NavItem"><a href="#Portfolio" class="MainHeader__NavLink">Portfolio</a></li>
-          <li class="MainHeader_NavItem"><a href="#Contact" class="MainHeader__NavLink">Contact</a></li>
+      <h1 class="MainTitle"><a href="#header">Bouwbedrijf - Bollenstreek</a></h1>
+      <nav class="MainNav"><!--navbar met section links i.p.v. file links -->
+        <ul class="MainNavList">
+          <li class="MainNavItem"><a href="#Introductie" class="MainNavLink">Introductie</a></li>
+          <li class="MainNavItem"><a href="#Portfolio" class="MainNavLink">Portfolio</a></li>
+          <li class="MainNavItem"><a href="#Contact" class="MainNavLink">Contact</a></li>
         </ul>
     </nav>
     </header>
@@ -46,21 +46,54 @@
     <main class="MainContent" id="Content">
       <section class="MainContent_Section" id="Introductie"><!-- Voor korte introductie, dus bijv. omschrijving en aangeboden diensten-->
         <h2 class="SectionTitle">Welkom bij Bouwbedrijf Bollenstreek</h2>
-        <p class="SectionText">oor continu te investeren in de kwaliteit en dienstverlening, het product en het kennisniveau, onderscheiden wij ons in de markt.   Wij putten uit jarenlange ervaring.Bouwbedrijf – Bollenstreek realiseert nieuwbouw, verbouw, onderhoud en meubel maatwerk.</p>
+        <p class="SectionText">Door continu te investeren in de kwaliteit en dienstverlening, het product en het kennisniveau, onderscheiden wij ons in de markt.   Wij putten uit jarenlange ervaring.Bouwbedrijf – Bollenstreek realiseert nieuwbouw, verbouw, onderhoud en meubel maatwerk.</p>
+        <br>
+        <p class="SectionText">Wij leveren de volgende diensten: </p>
+        <ul class="SectionList">
+          <li class="SectionListItem">Nieuwbouw</li>
+          <li class="SectionListItem">Verbouw</li>
+          <li class="SectionListItem">Interieurbouw</li>
+          <li class="SectionListItem">Onderhoud</li>
+          <li class="SectionListItem">Maatwerk meubels</li>
+          <li class="SectionListItem">Ontwerp</li>
+          <li class="SectionListItem">Dakkapel</li>
+          <li class="SectionListItem">Dakvenster</li>
+        </ul>
       </section>
       <br>
       <section class="MainContent_Section" id="Portfolio"><!-- Voor Portfolio , bijv. gedane werken-->
         <h2 class="SectionTitle">Portfolio</h2>
       </section>
       <br>
-      <section class="MainContent_Section" id="Contact"><!-- Voor contact formulier en e-mailadres -->
+      <section class="MainContent_Section" id="Contact" itemscope itemtype="https://schema.org/LocalBusiness"><!-- Voor contact formulier en e-mailadres -->
         <h2 class="SectionTitle">Contact</h2>
+        <address class="SectionText"><!--Gemaakt om goed om te gaan met webcrawlers-->
+          <meta itemprop="name" content="Bouwbedrijf-Bollenstreek"><!--Onzichtbaar voor bezoekrs, maar wel zichtbaar voor webcrawlers -->
+          <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+            <span itemprop="streetAddress">Grachtweg 35</span><br>
+            <span itemprop="postalCode">2161 HL</span><br>
+            <span itemprop="addressLocality">Lisse</span><br>
+          </div>
+          <div itemprop="">
+           <span> E-mail: <a href="mailto:info@bouwbedrijf-bollenstreek.nl" itemprop="email" >info@bouwbedrijf-bollenstreek.nl</a> </span><br>
+          </div>
+          <div id="KantoorTelefoon" itemprop="telephone">
+            <span> <a href="tel:+31252–412025" itemprop="telephone"><b>Kantoor:</b>0252 – 41 20 25</a> </span><br>
+          </div>
+          <div id="DirecteTelefoon" data-nosnippet><!--Deze nummers horen niet in google zoeken te komen -->
+            <span> <a href="tel:+316–54900615" ><b>Jacques:</b>06 – 54 90 06 15</a> </span><br>
+            <span> <a href="tel:+316–46143435" ><b>Patrick:</b>06 – 46 14 34 35</a> </span><br>
+          </div>
+        </address>
+        
       </section>
       
     </main>
 
     <footer class="MainFooter" id="Footer">
-      <p class="MainFooter_Text">&copy; bouwbedrijf-bollenstreek, 2026</p>
+      <div>
+        <p class="MainFooter_Text">&copy; bouwbedrijf-bollenstreek, 2026</p>
+      </div>
     </footer>
 
   </body>

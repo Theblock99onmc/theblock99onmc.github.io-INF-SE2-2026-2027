@@ -1,15 +1,49 @@
 /*stylesheet voor /BouwBedrijfBollenstreek/index.html */
+:root {
+    --primary-color: #ff8200;
+    --secondary-color: #f2f2f2;
+    --font-family: Arial, sans-serif;
+}
+/*header*/
 .MainHeader {
-    background-color: #f2f2f2;
+    background-color: var(--secondary-color);
     padding: 20px;
     text-align: center;
 }
+.MainTitle {
+    font-size: 24px;
+    font-weight: bold;
+    color: var(--primary-color);
+}
+.MainNav {
+    background-color: var(--primary-color);
+    padding: 10px;
+}
+.MainNavList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.MainNavItem {
+    margin: 0 10px;
+}
+.MainNavLink {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+/*body*/
+
 .MainContent {
     margin: 20px;
     font-family: Arial, sans-serif;
 }
+
+/*footer*/
 .MainFooter {
-    background-color: #f2f2f2;
+    background-color: var(--secondary-color);
     padding: 10px;
     text-align: center;
 }
