@@ -41,7 +41,7 @@
       <!-- Dit haalt de md-bestand genaamd artikel_01ab.md op en parset hem op het scherm. Sorry man ik kan niet meer -->
       <div id="content"></div>
       <script>
-          fetch('.artikel_01ab.md')
+          fetch('/artikel_01ab.md')
               .then(response => {
                   if (!response.ok) throw new Error('Document niet gevonden');
                   return response.text();
