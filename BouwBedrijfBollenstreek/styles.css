@@ -19,6 +19,7 @@
 .MainTitle {
     font-size: 24px;
     font-weight: bold;
+    font-family: Arial, sans-serif;
     color: var(--primary-color);
 }
 .MainTitle a {
