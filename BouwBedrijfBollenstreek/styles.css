@@ -2,7 +2,13 @@
 :root {
     --primary-color: #ff8200;
     --secondary-color: #f2f2f2;
+}
+.body {
     font-family: Arial, sans-serif;
+}
+.body a {
+    color: var(--primary-color);
+    text-decoration: none;
 }
 /*header*/
 .MainHeader {
