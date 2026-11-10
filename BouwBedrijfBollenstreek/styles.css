@@ -17,7 +17,7 @@
     text-align: center;
 }
 .MainTitle {
-    font-size: 24px;
+    font-size: 36px;
     font-weight: bold;
     font-family: Arial, sans-serif;
     color: var(--primary-color);
@@ -25,7 +25,9 @@
 .MainTitle a {
     text-decoration: none;
     color: inherit;
-    font: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    font-family: Arial, sans-serif;
 }
 
 .MainNav {
