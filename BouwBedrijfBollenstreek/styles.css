@@ -43,11 +43,17 @@
 }
 .MainNavItem {
     margin: 0 10px;
+    padding: 5px 50px;
 }
-.MainNavLink {
+.MainNavLink a{
     color: white;
     text-decoration: none;
     font-weight: bold;
+    text-decoration: none;
+    color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    font-family: Arial, sans-serif;
 }
 /*body*/
 
