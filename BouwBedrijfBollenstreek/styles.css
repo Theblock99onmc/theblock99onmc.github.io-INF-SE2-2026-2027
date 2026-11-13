@@ -5,6 +5,7 @@
 }
 .body {
     font-family: Arial, sans-serif;
+    align-content: center;
 }
 .body a {
     color: var(--primary-color);
@@ -77,4 +78,10 @@
     background-color: var(--secondary-color);
     padding: 10px;
     text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.MainFooter a {
+    color: var(--primary-color);
+    text-decoration: none;
 }
