@@ -3,14 +3,14 @@
     --primary-color: #ff8200;
     --secondary-color: #f2f2f2;
 }
-.body {
+body {
     font-family: Arial, sans-serif;
     align-content: center;
     align-items: center;
     justify-content: center;
     text-align: center;
 }
-.body a {
+body a {
     color: var(--primary-color);
     text-decoration: none;
 }
