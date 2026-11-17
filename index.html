@@ -62,7 +62,25 @@
         <div class="Item">item1</div> <!-- dit zijn de items -->
 
       </div>
+      <style>
+    .venster {
+      overflow: hidden; 
+      width: 300px;
+      border: 2px solid zwart; /* de .venster en .track zijn de class="" artibuten. ik plaats dezw stijlsheet in dit html bestand voor convenience */
+    }
 
+    .track {
+      display: flex;    
+      transition: transform 0.3s ease; 
+    }
+
+    .item {
+      min-width: 300px; 
+      background: #f0f0f0;
+      text-align: center;
+      padding: 50px 0;
+    }
+  </style>
     </div>
 
 
