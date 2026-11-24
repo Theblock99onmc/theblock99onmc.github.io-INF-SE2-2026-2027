@@ -5,10 +5,6 @@
 }
 body {
     font-family: Arial, sans-serif;
-    align-content: center;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
 }
 body a {
     color: var(--primary-color);
@@ -92,6 +88,7 @@ body a {
     text-decoration: none;
     font-weight: bold;}
 /* carrousel */
+/* Cycle through the slides; the final slide uses a reverse animation to wrap to the first. */
 @keyframes tonext {
   75% {
     left: 0;
@@ -138,8 +135,6 @@ body a {
 }
 
 body {
-  max-width: 37.5rem;
-  margin: 0 auto;
   padding: 0 1.25rem;
   font-family: 'Lato', sans-serif;
 }
@@ -175,6 +170,7 @@ ol, li {
 
 .carousel {
   position: relative;
+  /* The 75% top padding reserves a 4:3 slide viewport based on the carousel width. */
   padding-top: 75%;
   filter: drop-shadow(0 0 10px #0003);
   perspective: 100px;
@@ -238,6 +234,7 @@ ol, li {
 }
 
 @media (prefers-reduced-motion: reduce) {
+  /* Keep the slides stationary for visitors who request reduced motion. */
   .carousel__snapper {
     animation-name: none;
   }
@@ -245,6 +242,7 @@ ol, li {
 
 .carousel:hover .carousel__snapper,
 .carousel:focus-within .carousel__snapper {
+  /* Stop auto-advancing while a visitor interacts with the carousel. */
   animation-name: none;
 }
 

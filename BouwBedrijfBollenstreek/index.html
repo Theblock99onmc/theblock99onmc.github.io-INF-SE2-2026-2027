@@ -32,6 +32,10 @@
   
 
   <body>
+    <!--
+      The header identifies the business at the top of the page. Its navigation links jump directly
+      to the introduction, portfolio, and contact sections below.
+    -->
     <header class="MainHeader" id="Header">
       <h1 class="MainTitle"><a href="#"><b>Bouwbedrijf-Bollenstreek</b></a></h1>
       <nav class="MainNav"><!--navbar met section links i.p.v. file links -->
@@ -43,7 +47,9 @@
     </nav>
     </header>
 
+    <!-- Main contains the page's primary information, grouped into sections for quick navigation. -->
     <main class="MainContent" id="Content">
+      <!-- Introduces the company and summarizes the construction and renovation services it offers. -->
       <section class="MainContent_Section" id="Introductie"><!-- Voor korte introductie, dus bijv. omschrijving en aangeboden diensten-->
         <h2 class="SectionTitle">Welkom bij Bouwbedrijf Bollenstreek</h2>
         <p class="SectionText">Door continu te investeren in de kwaliteit en dienstverlening, het product en het kennisniveau, onderscheiden wij ons in de markt.   Wij putten uit jarenlange ervaring.Bouwbedrijf – Bollenstreek realiseert nieuwbouw, verbouw, onderhoud en meubel maatwerk.</p>
@@ -61,8 +67,10 @@
         </ul>
       </section>
       <br>
+      <!-- Presents examples of the company's work in a carousel with slide and direct-navigation links. -->
       <section class="MainContent_Section" id="Portfolio"><!-- Voor Portfolio , bijv. gedane werken-->
         <h2 class="SectionTitle">Portfolio</h2>
+        <!-- Slide links use fragment IDs; CSS handles the carousel movement without JavaScript. -->
         <section class="carousel" aria-label="Gallery">
   <ol class="carousel__viewport">
     <li id="carousel__slide1"
@@ -126,6 +134,7 @@
 </section>
       </section>
       <br>
+      <!-- Provides the business address and clickable email and telephone contact details. -->
       <section class="MainContent_Section" id="Contact" itemscope itemtype="https://schema.org/LocalBusiness"><!-- Voor contact formulier en e-mailadres -->
         <h2 class="SectionTitle">Contact</h2>
         <address class="SectionText"><!--Gemaakt om goed om te gaan met webcrawlers-->
@@ -151,6 +160,7 @@
       
     </main>
 
+      <!-- Closes the page with the business copyright notice. -->
     <footer class="MainFooter" id="Footer">
       <div>
         <p class="MainFooter_Text">&copy; bouwbedrijf-bollenstreek, 2026</p>
