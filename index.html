@@ -220,19 +220,31 @@ ol, li {
   scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
 }
-
+/* HIER IS SLIDE CODE // HIER IS SLIDE CODE // HIER IS SLIDE CODE // HIER IS SLIDE CODE // HIER IS SLIDE CODE */
 .carousel__slide {
   position: relative;
   flex: 0 0 100%;
   width: 100%;
-  background-image: url('');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   counter-increment: item;
 }
-
-.carousel__slide:nth-child(even) {
-  background-color: #99f;
+#carousel__slide1 {
+  background-image: url('Images/foto1.jpg'); /* Vervang foto1.jpg door jouw bestandsnaam */
 }
 
+#carousel__slide2 {
+  background-image: url('Images/foto2.jpg');
+}
+
+#carousel__slide3 {
+  background-image: url('Images/foto3.jpg');
+}
+
+#carousel__slide4 {
+  background-image: url('Images/foto4.jpg');
+}
 .carousel__slide:before {
   content: counter(item);
   position: absolute;
